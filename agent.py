@@ -5,7 +5,7 @@ import json
 # ===== 初始化 =====
 client = OpenAI(
     base_url="https://api.siliconflow.cn/v1",  # DeepSeek可改
-    api_key="sk-vluvcxirfckphzhgqkfvrxcviivenkqlqiinawkbpnaqujol"
+    api_key=""
 )
 
 MODEL = "deepseek-ai/DeepSeek-V3.2"
